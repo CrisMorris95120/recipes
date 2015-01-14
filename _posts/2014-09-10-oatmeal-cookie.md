@@ -11,6 +11,7 @@ categories: desert
 - Raisins
 - Banana
 - Jalpeno peppers
+- 1 qt tequila
 
 ## Directions
 
